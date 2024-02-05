@@ -39,7 +39,8 @@
 ## 기능 명세서
 [figma 링크](https://www.figma.com/files/project/107259789?fuid=1283687793770869020)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FcE0jLaIawgRFjHMwG7JIZx%2FSmart-WMS(%25EA%25B8%25B0%25EB%258A%25A5-%25EC%25A0%2595%25EC%259D%2598%25EC%2584%259C-%2526-%25ED%2599%2594%25EB%25A9%25B4-%25EC%2584%25A4%25EA%25B3%2584%25EC%2584%259C)-(Community)%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DUS1BlkJEF3iSDHOc-1" allowfullscreen></iframe>
+{% include figma.html id="figma_url" %}  
+
 
 
 ## 테스트 및 결과

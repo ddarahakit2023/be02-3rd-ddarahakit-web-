@@ -39,7 +39,7 @@
 ## 기능 명세서
 [figma 링크](https://www.figma.com/files/project/107259789?fuid=1283687793770869020)
 
-{% include figma.html id="figma_url" %}  
+{% include "./figma.html" id="figma_url" %}  
 
 
 
